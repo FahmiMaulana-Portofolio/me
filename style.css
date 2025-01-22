@@ -362,7 +362,7 @@ form input, form textarea {
     background: #262626;
     padding: 15px;
     margin: 15px 0;
-    color: #ff004f;
+    color: #fff;
     font-size: 18px;
     border-radius: 6px;
 }
@@ -371,7 +371,7 @@ form .btn2 {
     padding: 7px 30px;
     font-size: 18px;
     margin-top: 20px;
-    color: #ff0004f;
+    color: #ff004f;
     cursor: pointer;
 }
 
